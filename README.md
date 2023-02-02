@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔗Grounded and solution-oriented Computer enthusiast.<br>🔗Highly skilled and looking for the opportunity to establish a career in the world of data. <br>🔗Strong willingness to exhibit my proficiency in Analytical tools, Statistics and Computing Methodologies in the professional environment. <br>🔗Eager to use my knowledge to help implement tech solutions and keep the team up and running at its best level.
 
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhikshanandhini/) 
